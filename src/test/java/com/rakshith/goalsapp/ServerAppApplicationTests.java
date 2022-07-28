@@ -8,6 +8,7 @@ class ServerAppApplicationTests {
 
     @Test
     void contextLoads() {
+String hello = "hello";
     }
 
 }
